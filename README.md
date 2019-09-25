@@ -11,7 +11,7 @@ This training was created by the EPFL Library Teaching Team :
 + Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
 + Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 
-and will be modified by the current team. 
+and will be updated and translated by the current team. 
 
 ## Version `2.05`
 
