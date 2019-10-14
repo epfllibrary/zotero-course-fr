@@ -1,29 +1,30 @@
-##  Exercises
+##  Exercices
 
-### exercise 4.1: Collect references
+### Exercice 4.1 : collecter des références
 
-Add 5 references in your Zotero library. Try adding references of various doctypes:   
+Ajoutez 5 références à votre bibliothèques Zotero. Essayez d’ajouter des références pour différents types de documents : 
 
-1. book   
-2. paper   
-3. conference paper   
-4. Wikimedia Commons image   
-5. thesis   
+1.	Livre
+2.	Article
+3.	Acte de conférence
+4.	Image Wikimedia Commons
+5.	Thèse
 
 
-### exercise 4.2 : Search for a reference
+### exercice 4.2 : rechercher une référence
 
-Find at least two ways of searching a reference in your library.   
-Try the advanced search and save the result.   
-The collection created from that search is dynamic: every new reference matching the query you used in the avdanced search will be added automatically in this collection.
+Trouvez au moins deux méthodes pour retrouver une référence dans votre bibliothèque.
+Essayer de faire une recherche avancée et enregistrez le résultat.
 
-### exercise 4.3 : Check for PDFs
+La collection créée à partir de cette recherche est dynamique : chaque nouvelle référence correspondant aux critères de recherche utilisés dans la recherche avancée sera ajouté automatiquement à la collection.
 
-Select a batch of references with no attachments
+### exercice 4.3 : rechercher des PDFs
 
-Use the "Find available PDFs" feature to check PDFs availability
+Sélectionnez un groupe de références sans fichiers attchés. 
+
+Utilisez la fonctionalité "Trouver des PDFs disponibles" pour vérifier la disponibilité des PDFs.
 
 
 ---
-*Answers and personal notes*
+*Réponses et notes personnelles*
 
