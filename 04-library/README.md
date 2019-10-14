@@ -1,60 +1,65 @@
-## Zotero Library
+## Bibliothèque Zotero
 
-Your Zotero library will contain all the references you add into your library. You can create subsets of your library by adding "collections".
+Votre bibliothèque Zotero contiendra toutes les références ajoutées dans votre bibliothèque. Vous pouvez créer des ensembles sous-ensembles de votre bibliothèque en y ajoutant des « collections ».
 
 ![zotero interface](../img/interface/zotero-interface.png)
 
 
-## Collecting references
+## Récolter des references
 
-A reference consists of metadata describing a document and allowing you to easily find the document later. Zotero structures the metadata you collect about documents. When you cite your documents with Zotero, it will then generate consistent bibliographies. Zotero also allows you to store digital files along with the references.
+Une référence est constituée par les métadonnées décrivant un document et vous permettant le retrouver facilement ultérieurement. Zotero structure les métadonnées que vous récoltez sur les documents. Lorsque vous citez vos documents avec Zotero, cela génère ensuite des bibliographies. Zotero permet également de stocker des fichiers électroniques et de les rattacher directement aux références bibliographiques.
 
-The best is to collect references while you are in the process of looking for information. By that, we mean that you will be more efficient if you directly collect the metadata while you are on the website / database / library catalog where you find your documents because you won't need to find the reference a second time afterwards.
-
-
-### ... with Zotero Connector
-
-The Zotero Connector is the plugin that you installed in your browser. This plugin will detect the references available on the page you are visiting. The quality of the metadata depends on the sources you visit.   
-Open Zotero and click on the Zotero connector icon in your browser : the reference will be automatically sent to your Zotero library.
-
-Example : an article from [Cytology](https://doi.org/10.1007/s00004-009-0012-x)
+Le mieux est de récolter les références lorsque vous êtes dans la phase de recherche d’information. Nous entendons par là que vous serez plus efficace dans la collecte des métadonnées lorsque vous êtes sur le site internet / la base de données / le catalogue de bibliothèque lorsque vous trouvez les documents car vous n’aurez ainsi pas besoin de rechercher la référence une seconde fois ensuite.
 
 
-### ... using RIS or BibTeX 
+### ... avec le connecteur Zotero
 
-Some databases or catalogs can provide you with a downloadable file containing one or more references. The most common formats for these kind of files are RIS (.ris) or BibTeX (.bib). It is most useful for large scale exports. 
+Le connecteur Zotero est le plugin que vous avez installé sur votre navigateur web. Ce plugin va détecter les références présentes sur la  page que vous visitez. La qualité des métadonnées dépend des sources que vous visitez.
 
-Example : here is a [sample file to download](https://github.com/epfllibrary/zotero-course/blob/master/docs/references.zip)
+Ouvrez Zotero et cliquez sur le bouton du connecteur Zotero dans votre navigateur : la référence est alors automatiquement envoyée à votre bibliothèque Zotero.
 
-
-### ... with a unique identifier (DOI, PMID, ISBN). 
-
-Documents are often attributed a unique identifier: this helps when you have a copy of this document and you want to add the reference to Zotero. 
-
-In Zotero, if you click on the magic wand icon in the top bar, a field appears. Type the identifier of the document. Press enter. A new reference will be added to your library.
-
-Example : the ISBN of a book, DOI of a scientific paper or the PMID of a biomedical paper. 
+Exemple : un article de [Cytology](https://doi.org/10.1007/s00004-009-0012-x)
 
 
-### ... from a PDF
+### ... en utilisant RIS ou BibTex
 
-If you have stored PDFs on your computer without directly adding them in Zotero with their metadata, it's often possible to obtain comprehensive metadata afterwards. 
+Certaines bases de données ou catalogues peuvent vous fournir un fichier téléchargeable contenant une ou plusieurs références. Les formats les plus courants pour ce type de fichiers sont RIS (.ris) ou BibTex (.bib). Ces fichiers sont particulièrement utiles pour importer de grandes quantités de références.
 
-You need to add the PDF in Zotero, by dragging it from a folder and dropping it in your library. Zotero automatically searches for metadata and automatically create a reference containing the metadata along with the PDF file when possible. However, it might be that the PDF you added to your Zotero library is not machine-readable or is not recognized by Zotero. In that case, no metadata will be retrieved. You can also retrieve metadata for several PDFs at the same time.
-
-Example : a PDF sent by a colleague
+Exemple : voici [exemple de fichier](https://github.com/epfllibrary/zotero-course/blob/master/docs/references.zip)
 
 
-### ... manually
+### ... avec un identifiant unique (DOI, PMID, ISBN). 
 
-Sometimes, there is no available metadata encoded in the page you are visiting or the document you have in your hands is not indexed in a digital catalog. You will need to create or edit the reference yourself.   
+Les documents possèdent souvent un identifiant unique qui leur sont attribués : cela est utile lorsque vous possédez une copie du document et que vous voulez en ajouter la référence à Zotero.
 
-In Zotero, you can create a new item by clicking on *File > New Item* or on the green circle with a plus. Either way, you will need to choose the type of document you want to create a reference for (ie "Book", "Report", etc.). When you select the type of document, a blank reference appears. You can then fill the fields according to the document you have in front of you. In all cases, it is best to be exhaustive as possible and to give as much information as possible. 
+Dans Zotero, si vous cliquez sur l’icône « baguette magique » dans la barre d’outil supérieure, un champ apparaît. Tapez l’identifiant du document, appuyez sur enter. Une nouvelle référence va alors s’ajouter à votre bibliothèque. 
 
-Example : a report from the [Swiss Federal Statistical Office](https://www.bfs.admin.ch/bfs/en/home/statistics/catalogues-databases/publications.assetdetail.3862240.html)
 
-### Retrieve PDFs 
+Exemple : l’ISBN d’un livre, le DOI d’un article scientifique ou le PMID d’un article du domaine biomédical.  
 
-In some cases, you might want to store a copy of the full text associated with the bibliographic reference. It is possible to retrieve and add full text PDFs in two ways. 
-1. While adding a bibliographic reference from the browser.
-2. Later on, doing a right-click on a reference (or a batch of references) and clicking on "Find available PDF"
+
+### ... depuis un PDF
+
+Si vous avez enregistré des PDFs sur votre ordinateur sans ajouter directement leurs métadonnées dans Zotero, il est souvent possible d’obtenir des métadonnées compréhensibles ultérieurement.
+
+Vous devez ajouter le PDF dans Zotero en le glissant d’un dossier vers votre bibliothèque. Zotero recherche automatiquement les métadonnées et crée automatiquement une référence  contenant les métadonnées sur le PDF lorsque cela est possible. Cependant, il se peut que le PDF que vous avez ajouté dans votre bibliothèque Zotero ne soit pas lisible par une machine, ou qu’il ne soit pas reconnu par Zotero. Dans ce cas de figure, aucune métadonnée ne sera récupérée. Vous pouvez également récupérer les métadonnées de plusieurs PDFs en même temps. 
+
+Exemple : un PDF envoyé par un-e collègue.
+
+
+
+### ... manuellement
+
+Parfois, il n’existe pas de métadonnées encodées dans la page que vous visitez, ou le document que vous avez entre les mains n’est pas indexé dans un catalogue électronique. Vous aurez alors besoin de créer ou éditer vous-même la référence.
+
+Dans Zotero, vous pouvez créer un nouvel objet en cliquant sur *Fichier > Nouveau document*  ou sur le petit cercle vers avec un +. Qu’importe le chemin, vous devrez choisir le type de document pour lequel vous souhaitez créer une référence (par exemple « livre », « rapport », etc.). Une fois que le type de document est sélectionné, une grille de référence vide apparaît. Vous pouvez ensuite remplir les champs en fonction du document que vous avez entre les mains. Dans tous les cas, le mieux est aussi exhaustif que possible et d’ajouter autant d’informations que possible. 
+
+
+Exemple : un rapport de  l'[Office fédéral de la statistique](https://www.bfs.admin.ch/bfs/en/home/statistics/catalogues-databases/publications.assetdetail.3862240.html)
+
+### Récupérer des PDFs 
+
+Dans certains cas, vous pourriez vouloir enregistrer une copie du texte associé à la référence bibliographique. Il est possible de récupérer et ajouter des PDFs de deux manières.
+
+1. En ajoutant une référence bibliographique depuis votre navigateur web.
+2. Plus tard, en effectuant un clic droit sur une référence (ou une sélection de références) et en cliquant sur « trouver un pdf disponible ».
