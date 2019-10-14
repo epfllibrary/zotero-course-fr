@@ -1,27 +1,27 @@
-## How to install Zotero?
+## Comment installer Zotero ?
 
-1. Go on [https://www.zotero.org/download/](https://www.zotero.org/download/)
-2. Download Zotero 5.0
-3. Run the installation file
+1. Aller sur  [https://www.zotero.org/download/](https://www.zotero.org/download/)
+2. Télécharger Zotero 5.0
+3. Lancer l’installation du fichier
 
-You will also need to install the Zotero connector for your browser.
+Vous avez aussi besoin d’installer le connecteur Zotero pour votre navigateur web.
 
-1. Go on [https://www.zotero.org/download/](https://www.zotero.org/download/)
-2. Click on the "Install Zotero Connector" button
-3. Autorize installation
+1. Aller sur [https://www.zotero.org/download/](https://www.zotero.org/download/)
+2. Cliquer sur le bouton « Install Zotero Connector »
+3. Autoriser l’installation
 
-## How to check if the installation worked ?
+## Comment vérifier que l’installation a bien fonctionné ?
 
-Zotero should now be installed on your computer. To fully enjoy Zotero, the software should be plugged in your browser and your word processor (Microsoft Word, OpenOffice Writer, LibreOffice Writer).
+Zotero devrait maintenant être installé sur votre ordinateur. Pour profiter au maximum du potentiel de Zotero, le logiciel doit être « plugué » à votre navigateur web et à votre traitement texte (Microsoft Word, OpenOffice Writer, LibreOffice Writer). 
 
-1. Check if Zotero is installed by opening the application on your computer
-2. Open your browser and check that Zotero appears on the top bar, next to the search bar
-3. Open your word processor and check if the Zotero plugin is installed. This plugin is also called "Word processor". Usually, after installing Zotero, a new tab will appear in your word processor. Depending on your software, Zotero might alternatively be shown with other "complements".
+1. Vérifier que Zotero est installé en ouvrant l’application sur votre ordinateur
+2. Ouvrir votre navigateur et vérifier que Zotero apparaît dans la barre d’outil supérieure, à côté du champ de recherche.
+3. Ouvrir votre logiciel de traitement de texte et vérifier que le plugin Zotero est bien installé. Ce plugin est également appelé « word processor ». Normalement, après l’installation de Zotero, un nouvel onglet va apparaître dans votre logiciel de traitement de texte. Selon votre logiciel, Zotero peut également apparaître avec d’autres « compléments ».
 
-If the installation of the Word Processor did not work, you can reinstall it from Zotero itself.   
+Si l’installation du Word Processor n’a pas fonctionné, vous pouvez le réinstaller depuis l’application Zotero. Pour cela, il faut: 
 
-1. Open Zotero
-2. Go to *Edit > Preferences* (or *Zotero > Preferences* on Mac OS)
-3. Click on the *Cite* tab
-4. Click on the second tab Word Processor
-5. At this stage, you can choose to install or reinstall one word processor or more, according to the number you have on your computer.
+1. Ouvrir Zotero
+2. Aller dans le menu *Edition > Preferences* (ou *Zotero > Preferences* sur Mac OS)
+3. Cliquer sur l'onglet *Citer*
+4. Cliquer sur le 2e onglet « traitement de texte »
+5. 5.	A ce moment, vous pouvez choisir d’installer ou de réinstaller un traitement de textes ou plusieurs, selon le nombre installé sur votre ordinateur
