@@ -35,9 +35,12 @@ Il est important de comprendre que ce genre de logiciel est fait pour gérer une
 ## Pourquoi Zotero?
 
 Zotero est un outil **facile à utiliser** and **performant**. La plupart des gestionnaires de références actuels sont construits sur des interfaces et des processus de fonctionnement similaires.   
+
 Zotero est **compatible avec un grand nombre de ressources en ligne **: en janvier 2018, il existait plus de 500 ressources compatibles (c’est plus que tout autre gestionnaire de références).   
+
 C'est un **logiciel libre**. Il est non seulement gratuit, mais il est aussi open source (aucune restriction liée à une licence). Cela a pour avantage que, lorsque vous quitterai l’EPFL, vous pourrez continuer à l’utiliser de la même façon. 
 Zotero a également une **grande et active communauté d’utilisateurs**.  . Si vous avez besoin d’aide, vous obtiendrez une réponse rapide pour résoudre votre problème.  Si vous souhaitez une nouvelle fonctionnalité, son implémentation ne dépendra pas du bon vouloir du développeur : vous pouvez la demander (un autre utilisateur l’a peut-être déjà implémentée) ou la développer par vous-même.
+
 Zotero est **modulable**: des fonctionnalités supplémentaires peuvent être ajoutées et partagées grâce à des plugins (https://www.zotero.org/support/plugins).
 
 Enfin, et même si cela ne sera pas traité dans ce workshop, il est important de savoir que Zotero est conçu pour favoriser le travail collaboratif, et cela plus que tout autre gestionnaire de références. Il permet de gérer un nombre illimité de membres et d’objets pour un nombre illimité de bibliothèques de groupes. Il y a cependant une limitation de l’espace de stockage.
