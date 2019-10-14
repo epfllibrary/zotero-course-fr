@@ -24,4 +24,4 @@ Si l’installation du Word Processor n’a pas fonctionné, vous pouvez le réi
 2. Aller dans le menu *Edition > Preferences* (ou *Zotero > Preferences* sur Mac OS)
 3. Cliquer sur l'onglet *Citer*
 4. Cliquer sur le 2e onglet « traitement de texte »
-5. 5.	A ce moment, vous pouvez choisir d’installer ou de réinstaller un traitement de textes ou plusieurs, selon le nombre installé sur votre ordinateur
+5. A ce moment, vous pouvez choisir d’installer ou de réinstaller un traitement de textes ou plusieurs, selon le nombre installé sur votre ordinateur
