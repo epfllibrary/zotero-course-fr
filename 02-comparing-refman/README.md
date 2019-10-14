@@ -39,7 +39,7 @@ Zotero est un outil **facile à utiliser** and **performant**. La plupart des ge
 Zotero est **compatible avec un grand nombre de ressources en ligne**: en janvier 2018, il existait plus de 500 ressources compatibles (c’est plus que tout autre gestionnaire de références).   
 
 C'est un **logiciel libre**. Il est non seulement gratuit, mais il est aussi open source (aucune restriction liée à une licence). Cela a pour avantage que, lorsque vous quitterai l’EPFL, vous pourrez continuer à l’utiliser de la même façon. 
-Zotero a également une **grande et active communauté d’utilisateurs**.  . Si vous avez besoin d’aide, vous obtiendrez une réponse rapide pour résoudre votre problème.  Si vous souhaitez une nouvelle fonctionnalité, son implémentation ne dépendra pas du bon vouloir du développeur : vous pouvez la demander (un autre utilisateur l’a peut-être déjà implémentée) ou la développer par vous-même.
+Zotero a également une **grande et active communauté d’utilisateurs**. Si vous avez besoin d’aide, vous obtiendrez une réponse rapide pour résoudre votre problème.  Si vous souhaitez une nouvelle fonctionnalité, son implémentation ne dépendra pas du bon vouloir du développeur : vous pouvez la demander (un autre utilisateur l’a peut-être déjà implémentée) ou la développer par vous-même.
 
 Zotero est **modulable**: des fonctionnalités supplémentaires peuvent être ajoutées et partagées grâce à des plugins (https://www.zotero.org/support/plugins).
 
