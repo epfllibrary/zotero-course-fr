@@ -1,26 +1,26 @@
-## Learning objectives
+## Objectifs pédagogiques
 
-By the end of this workshop, participants will : 
+A la fin de ce workshop, les participants seront capables de : 
 
-1. install Zotero
-2. create a Zotero library
-3. collect references and metadata from various sources
-4. cite and create bibliographies
-5. choose a citation style
+1. installer Zotero
+2. créer une bibliothèque Zotero
+3. collecter des références et des métadonnées issues de sources variées
+4. citer et créer des bibliographies
+5. choisir un style de citation
 
-## Program
+## Programme
 
-| Time | Activity | 
+| Heure | Activité | 
 | :------- | :---- | 
 | 09:30 | Introduction | 
-| 09:35 | Comparing reference management softwares | 
-| 09:45 | Zotero Installation |
-| 10:00 | Create a Zotero library |
-| 10:05 | Exercise time (4.1 - 4.3)|
-| 10:20 | Collect references |
-| **10:35** | **Break**|
-| 10:50 | Exercise time (4.4 - 4.6) |
-| 11:00 | From Zotero to a word processor (5.1 - 5.3) |
-| 11:10 | Citation styles (6.1 - 6.2) |
-| 11:20 | Questions, evaluation and conclusion |
+| 09:35 | Comparer des logiciels de gestion des références | 
+| 09:45 | Installer Zotero |
+| 10:00 | Créer une bibliothèque Zotero |
+| 10:05 | Exercices (4.1 - 4.3)|
+| 10:20 | Collecter des références |
+| **10:35** | **Pause**|
+| 10:50 | Exercices (4.4 - 4.6) |
+| 11:00 | De Zotero à un logiciel de traitement de textes (5.1 - 5.3) |
+| 11:10 | Styles de citation (6.1 - 6.2) |
+| 11:20 | Questions, évaluation et conclusion |
 
