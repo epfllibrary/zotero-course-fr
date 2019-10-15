@@ -56,7 +56,7 @@ Si vous avez téléchargé un fichier .csl, vous pouvez l'ajouter à Zotero en s
 
 Le nouveau style de citation est ajouté à la liste dans Zotero et dans votre logiciel de traitement de texte.
 
-### Depuis le dépôt de stlye Zotero
+### Depuis le dépôt de styles Zotero
 
 Il est également possible d'intégrer un style directement depuis Zotero via le dépôt de styles Zotero en suivant les étapes suivantes :
 
