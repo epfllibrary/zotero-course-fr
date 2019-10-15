@@ -12,14 +12,13 @@ Insérez trois citations and créez ensuite une bibliographie.
 
 1. Dans votre texte, citez au moins 3 documents enregistrés dans Zotero.
 
-1. Generate a bibliography
+1. Générez une bibliographie. 
 
 
-### exercise 5.3 (for LaTeX users only)   
+### exercice 5.3 (pour les utilisateur de LaTeX)   
 
-Even if working with LaTeX is not covered in this workshop, try to find how to integrate Zotero in your LaTeX workflow.   
-What do you need to do?
-
+Même si le travail avec LaTeX n'est pas couvert par cet atelier, essayez de trouver comment intégrer Zotero dans vos flux de travail LaTeX
+Qu'avez-vous besoin de faire?
 
 ---
-*Answers and personal notes*
+*Réponses et notes personnelles*
