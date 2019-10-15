@@ -1,17 +1,16 @@
-## Exercises
+## Exercices
 
-### exercise 5.1: Create a bibliography without citing 
+### exercice 5.1: Créer une bibliographie sans citer
 
-Generate a bibliography in your word processor by selecting at least 3 references from Zotero. There are at least 2 ways to do it.
+Générez un bibliographie dans votre logiciel de traitement de texte en sélectionnant au moins trois références depuis Zotero. Il y a au moins deux façons de le faire.
 
+### exercice 5.2: Citer en écrivant
 
-### exercise 5.2: Cite while you write
+Insérez trois citations and créez ensuite une bibliographie.
 
-Insert 3 citations and then create a bibliography
+1. Ecrire quelque lignes sur votre domaine d'expertise.
 
-1. Write a few lines about your area of expertise.
-
-1. In your text, cite at least 3 documents that are saved in Zotero. TIPS: use the Zotero button in your word processor +  you are free to select any citation style.   
+1. Dans votre texte, citez au moins 3 documents enregistrés dans Zotero.
 
 1. Generate a bibliography
 
