@@ -1,6 +1,6 @@
-## From Zotero to the word processor
+## De Zotero au logiciel de traitement de texte
 
-Zotero integrated very well with Microsoft Word, LibreOffice Writer and OpenOffice Writer.
-There are several ways to add references from a Zotero library in a word processor.
+Zotero est vraiment bien intégré à Microsoft Word, LibreOffice Writer et OpenOffice Writer.
+Il y a différentes manières d'ajouter des références depuis un logiciel de traitement de texte.
 
-First, both Zotero and the word processor have to be open. Then, to be able to use the interactive features, you need to have a Zotero button in your word processor. Can you see it? If not, in Zotero, open the Preferences panel and go to *Cite > Word Processors* and click on the "reinstall [name of the word processor] Add-in" button.
+D'abord, il faut que Zotero et le logiciel de traitement de texte soient tous les deux ouverts. Ensuite, pour pouvoir utiliser les fonctionalités intéractives, vous avez besoin qu'un que le bouton Zotero apparaisse dans votre logiciel de traitement de texte. Est-ce que vous le voyez? Si ce n'est pas le cas, dans Zotero, ouvrez le menu des "Préférences" et aller sur *Citer > traitements de textes* et cliquez sur le bouton "Installer le module [nom du logiciel de traitement de textes]".
