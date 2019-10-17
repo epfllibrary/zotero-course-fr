@@ -25,4 +25,4 @@ Vous pouvez lire ce fichier en ligne ou le télécharger en formats [PDF](https:
 ![logo-CC-BY](img/cc-by.svg)   
 Ce document est disponible sous la licence suivante  [Creative Commons Paternité 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).   
 La source du fichier peut être trouvée ici [https://github.com/epfllibrary/zotero-course-fr](https://github.com/epfllibrary/zotero-course-fr).   
-**Soyez libre de la réutiliser et l'adapter à vos besoins!**   
+**Soyez libres de le réutiliser et l'adapter à vos besoins!**   
