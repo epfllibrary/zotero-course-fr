@@ -1,16 +1,15 @@
-## Exercises
+## Exercices
 
-### exercise 6.1: Add a new citation style
+### exercice 6.1: Ajouter un nouveau style de citation
 
-Your supervisor/publisher requires that you use a citation style called Copernicus.   
-Copernicus is not listed in the short list! How can you add it to the citation styles list in Zotero? 
+Votre superviseur/éditeur demande que vous utilisiez un style de citation appelé "Copernicus". 
+Copernicus ne se trouve pas dans la liste pré-établie! Comment l'ajouter dans la liste de styles de citation de Zotero? 
 
 
-### exercise 6.2: Change the citation style
+### exercice 6.2: Modifier le style de citation
 
-Finally, you submit your paper to a different journal than the one you first planned. The IEEE style is required for referencing. Arrrgghh!! What can you do?
-
+Finalement, vous soumettez votre article à une autre revue que celle prévue initialement. Le style IEEE est requis pour les références. Arrghh!! Que faire?
 
 ---
-*Answers and personal notes*
+*Réponses et notes personnelles*
 
