@@ -9,7 +9,7 @@ MURACK, Jennie, 2018. LibGuides: Citation Management and Writing Tools: Zotero. 
 PUCKETT, Jason, 2017. *Zotero: a guide for librarians, researchers and educators*. 2nd ed. Chicago, Illinois: ACRL. ISBN 978-0-8389-8931-9.   
 
 
-## Liens utilesl
+## Liens utiles
 
 Forum Zotero pour obtenir de l'aide de la grande communauté Zotero:   
 [https://forums.zotero.org/discussions](https://forums.zotero.org/discussions)   
