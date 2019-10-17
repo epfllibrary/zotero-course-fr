@@ -1,28 +1,28 @@
 # Up to speed with Zotero
 
 ## Description
-These course notes have been created for EPFL Library's training [*Up to speed with Zotero - quick start workshop*](https://www.epfl.ch/campus/library/services/training/training-phd-students-researchers/), in Lausanne, Switzerland. Slides for this training are available on HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
+Ce support de cours a été créé pour la formation de la Bibliothèque de l'EPFL [*Up to speed with Zotero - quick start workshop*](https://www.epfl.ch/campus/library/services/training/training-phd-students-researchers/), à Lausanne, Suisse. Les slides de cette formation sont disponibles sur HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
 
-## Authors
+## Auteurs
 
-This training was created by the EPFL Library Teaching Team :   
+Cette formation a été créée par l'égquipe formationde la bibliothèque de l'EPFL :   
 + Caroline Salamin [caroline.salamin@epfl.ch](mailto:caroline.salamin@epfl.ch)   
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 + Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
 + Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 
-and will be updated and translated by the current team. 
+Elle a été mise à jour  et traduite par l'équipe actuelle. 
 
-## Version `2.05`
+## Version traduite`2.1.00`
 
-*updated on September 25, 2019* ([version history](X-references.md))
+*Mise à jour et traduite le 17.10.2019* ([version history](X-references.md))
 
-The latest version of this document is available on **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)   
-You can read this file online or download it in [PDF](https://go.epfl.ch/zotpdf), ePub and Mobi format.
+La version la plus récente de cette formation est disponible sur **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)   
+Vous pouvez lire ce fichier en ligne ou le télécharger en formats [PDF](https://go.epfl.ch/zotpdf), ePub et Mobi.
 
 
-## License `CC BY`
+## Licence `CC BY`
 ![logo-CC-BY](img/cc-by.svg)   
-This document is available under the following license  [Creative Commons Paternité 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).   
-The source files can be found here [https://github.com/epfllibrary/zotero-course](https://github.com/epfllibrary/zotero-course).   
-**Feel free to reuse and remix them!**   
+Ce document est disponible sous la licence suivante  [Creative Commons Paternité 4.0 International](http://creativecommons.org/licenses/by/4.0/deed.fr).   
+La source du fichier peut être trouvée ici [https://github.com/epfllibrary/zotero-course-fr](https://github.com/epfllibrary/zotero-course-fr).   
+**Soyez libre de la réutiliser et l'adapter à vos besoins!**   
