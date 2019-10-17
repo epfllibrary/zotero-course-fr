@@ -1,25 +1,22 @@
-This workshop was intended to give you the basics to start working with Zotero.
+Le but de cet atelier était de vous permettre d'acquérir les bases pour commencer à travailler avec Zotero.
 
-## Advanced Zotero features
+## Fonctionnalités avancées de Zotero
 
-There are various Zotero features that were not covered in this workshop, such as : 
+Il y a plusieurs fonctions de Zotero qui n'ont pas été couvertes par ce workshop, comme par exemple : 
 
-- Setting up your Zotero account to sync your library 
-- Working in groups with Zotero
-- RSS feeds 
-- Increase storage space using a WebDav-enabled 3rd party platform
-- Adding notes and tags to references
-- How to use annotated PDFs within Zotero
-- Advanced PDF management with Zotfile
-- Using Zotero with LaTeX
+- Créer un compte Zotero pour synchroniser votre bibliothèque
+- Travailler en groupe avec Zotero
+- Flux RSS
+- Augmenter l'espace de stockage en utilisant une plateforme compatible avec WebDav-enabled
+- Ajouter des notes et des tags aux références
+- Comment  utiliser des PDFs annotés dans Zotero
+- Gestion avancée des PDFs avec Zotfile
+- Utiliser Zotero avec LaTeX
 
-Don't hesitate to ask us if you want explanations about these features.
+N'hésitez pas à nous demander si vous souhaitez des explications supplémentaires concernant ces fonctionnalités.
 
 ## Support
-
-The EPFL Library Training Team is always keen to support you in your use of Zotero and will also reply to your questions about citation in general.   
-Lab-centered workshop or support are also provided on demand.   
-
-You can contact us by e-mail: [formations.bib@epfl.ch](mailto:formations.bib@epfl.ch).   
-We will answer your question or set an appointment depending on the specificity and complexity of your request.
+L'équipe de la Bibliothèque de l'EPFL est toujours à votre disposition pour vous aider dans votre utilisation de Zotero, et pour répondra également volontiers à toute question sur les citations en générale.
+Vous pouvez nous contacter par e-mail: [formations.bib@epfl.ch](mailto:formations.bib@epfl.ch).   
+Nous répondrons volontiers à votre question ou nous fixerons un rendez-vous selon la spécificité and la complexité de votre demande.
 
