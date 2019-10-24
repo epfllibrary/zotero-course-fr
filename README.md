@@ -1,7 +1,7 @@
 # Up to speed with Zotero
 
 ## Description
-Ce support de cours a été créé pour la formation de la Bibliothèque de l'EPFL [*Up to speed with Zotero - quick start workshop*](https://www.epfl.ch/campus/library/services/training/training-phd-students-researchers/), à Lausanne, Suisse. Les slides de cette formation sont disponibles sur HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
+Ce support de cours a été créé comme support de formation par la [Bibliothèque de l'EPFL](https://www.epfl.ch/campus/library/fr/bibliotheque/), à Lausanne, Suisse. Les slides de cette formation sont disponibles sur HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
 
 ## Auteurs
 
@@ -11,14 +11,16 @@ Cette formation a été créée par l'égquipe formationde la bibliothèque de l
 + Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
 + Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
 
-Elle a été mise à jour  et traduite par l'équipe actuelle. 
+Elle a été mise à jour et traduite par l'équipe actuelle, notamment : 
+
++ Angélique Boschung [angelique.joye@epfl.ch](mailto:angelique.joye@epfl.ch)
 
 ## Version traduite`2.1.00`
 
 *Mise à jour et traduite le 17.10.2019* ([version history](X-references.md))
 
-La version la plus récente de cette formation est disponible sur **gitbook**: [https://go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)   
-Vous pouvez lire ce fichier en ligne ou le télécharger en formats [PDF](https://go.epfl.ch/zotpdf), ePub et Mobi.
+La version la plus récente de cette formation est disponible sur **gitbook**: [https://epfl-fbib.gitbook.io/zotero/](https://epfl-fbib.gitbook.io/zotero/).
+Un traduction anglaise est également disponible à l'adresse : go.epfl.ch/zotbook(go.epfl.ch/zotbook)
 
 
 ## Licence `CC BY`
