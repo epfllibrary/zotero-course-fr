@@ -2,7 +2,7 @@
 
 ### Exercice 4.1 : collecter des références
 
-Ajoutez 5 références à votre bibliothèques Zotero. Essayez d’ajouter des références pour différents types de documents : 
+Ajoutez 5 références à votre bibliothèques Zotero. Essayez d’ajouter des références pour différents types de documents :
 
 1.	Livre
 2.	Article
@@ -20,11 +20,11 @@ La collection créée à partir de cette recherche est dynamique : chaque nouvel
 
 ### exercice 4.3 : rechercher des PDFs
 
-Sélectionnez un groupe de références sans fichiers attchés. 
+Sélectionnez un groupe de références sans fichiers attchés.
 
 Utilisez la fonctionalité "Trouver des PDFs disponibles" pour vérifier la disponibilité des PDFs.
 
-
 ---
-*Réponses et notes personnelles*
 
+*Réponses et notes personnelles*
+/pagebreak

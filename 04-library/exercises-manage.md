@@ -1,15 +1,15 @@
 ## Exercices
 
-Votree bibliothèque Zotero est organisée en colonnes: la première colonne contient d'habitude une arborescence de vos fichiers/collections.   
+Votre bibliothèque Zotero est organisée en colonnes: la première colonne contient d'habitude une arborescence de vos fichiers/collections.  
 
-Vous pouvez créer autant de fichier/collections et sous-collections que vous le souhaitez. 
+Vous pouvez créer autant de fichier/collections et sous-collections que vous le souhaitez.
 Chaque élément/référence apparaît deux fois: une première fois dans votre bibliothèque, la seconde seconde dans une collection (si vous l'avez intégrée dans une collection).  
-Les éléments qui ne sont pas classés dans une collection se retrouvent dans le fichier "Non classés". 
+Les éléments qui ne sont pas classés dans une collection se retrouvent dans le fichier "Non classés".
 
 ### exercice 4.4 : Créer et gérer vos collections
 
-Créez une collection. 
-Mettez quelques références dans cette nouvelle collection. 
+Créez une collection.
+Mettez quelques références dans cette nouvelle collection.
 Cliquez sur une des références et effacez-là de la collection, mais non de votre bibliothèque.   
 
 Quelle option devez-vous sélectionner?
@@ -34,7 +34,7 @@ Quels sont les champs les plus important pour une référence d'article de revue
 
 Ajoutez des commentaires à vos références: ajoutez une note à un élément de votre bibliothèque.
 
-
 ---
-*Réponses et commentaires personnels*
 
+*Réponses et notes personnelles*
+/pagebreak

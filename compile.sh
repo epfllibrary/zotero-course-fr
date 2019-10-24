@@ -1,0 +1,1 @@
+pandoc --resource-path=img -o test.pdf title.txt SUMMARY.md 01-intro/README.md 02-comparing-refman/README.md 03-installation.md 04-library/README.md 04-library/exercises-collect.md 04-library/exercises-manage.md 05-wordprocessor/README.md 05-wordprocessor/exercises.md 06-citation-styles/README.md 06-citation-styles/exercises.md 07-conclusion.md

@@ -12,7 +12,7 @@ Insérez trois citations and créez ensuite une bibliographie.
 
 1. Dans votre texte, citez au moins 3 documents enregistrés dans Zotero.
 
-1. Générez une bibliographie. 
+1. Générez une bibliographie.
 
 
 ### exercice 5.3 (pour les utilisateur de LaTeX)   
@@ -22,3 +22,4 @@ Qu'avez-vous besoin de faire?
 
 ---
 *Réponses et notes personnelles*
+/pagebreak
