@@ -1,5 +1,3 @@
-# Up to speed with Zotero
-
 ## Description
 Ce support de cours a été créé comme support de formation par la [Bibliothèque de l'EPFL](https://www.epfl.ch/campus/library/fr/bibliotheque/), à Lausanne, Suisse. Les slides de cette formation sont disponibles sur HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
 
