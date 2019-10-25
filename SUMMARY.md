@@ -10,7 +10,7 @@
 
 * [Installer Zotero](03-installation.md)
 
-## PRATIQUER ZOTERO
+## PRATIQUER AVEC ZOTERO
 
 * [Créer une bibliothèque Zotero](04-library/README.md)
   * [exercices](04-library/exercises-collect.md)
