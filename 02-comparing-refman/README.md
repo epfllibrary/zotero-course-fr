@@ -14,9 +14,9 @@
 \** rabais pour les étudiants: 30%
 
 
-## Pourquoi utiliser un logiciel de gestion des références ?
+## Pourquoi utiliser un logiciel de gestion des références bibliographiques ?
 
-Zotero est un logiciel de gestion des références. Lorsque vous utilisez un tel logiciel, les tâches suivantes sont (plus ou moins) faites en 1 clic :
+Zotero est un logiciel de gestion des références. Lorsque vous utilisez un tel logiciel, les tâches suivantes sont (plus ou moins) accomplies en 1 clic :
 
 * ajouter/importer des références
 * créer une bibliographie
@@ -35,11 +35,11 @@ Il est important de comprendre que ce genre de logiciel est fait pour gérer une
 
 ## Pourquoi Zotero?
 
-Zotero est un outil **facile à utiliser** and **performant**. La plupart des gestionnaires de références actuels sont construits sur des interfaces et des processus de fonctionnement similaires.   
+Zotero est un outil **facile à utiliser** et **performant**. La plupart des gestionnaires de références actuels sont construits sur des interfaces et des processus de fonctionnement similaires.   
 
-Zotero est **compatible avec un grand nombre de ressources en ligne**: en janvier 2018, il existait plus de 500 ressources compatibles (c’est plus que tout autre gestionnaire de références).   
+Zotero est **compatible avec un grand nombre de ressources en ligne**. En janvier 2018, il existait plus de 500 ressources compatibles (c’est plus que tout autre gestionnaire de références).   
 
-C'est un **logiciel libre**. Il est non seulement gratuit, mais il est aussi open source (aucune restriction liée à une licence). Cela a pour avantage que, lorsque vous quitterai l’EPFL, vous pourrez continuer à l’utiliser de la même façon.
+C'est un **logiciel libre**. Il est non seulement gratuit, mais il est aussi open source (aucune restriction liée à une license). Cela a pour avantage que, lorsque vous quitterez l’EPFL, vous pourrez continuer à l’utiliser de la même façon.
 Zotero a également une **grande et active communauté d’utilisateurs**. Si vous avez besoin d’aide, vous obtiendrez une réponse rapide pour résoudre votre problème.  Si vous souhaitez une nouvelle fonctionnalité, son implémentation ne dépendra pas du bon vouloir du développeur : vous pouvez la demander (un autre utilisateur l’a peut-être déjà implémentée) ou la développer par vous-même.
 
 Zotero est **modulable**: des fonctionnalités supplémentaires peuvent être ajoutées et partagées grâce à des plugins (https://www.zotero.org/support/plugins).
