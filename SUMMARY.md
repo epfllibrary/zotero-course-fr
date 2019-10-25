@@ -1,27 +1,27 @@
-# UP TO SPEED WITH ZOTERO - quick start workshop
+# UP TO SPEED WITH ZOTERO - atelier pour débuter
 
 ## INTRODUCTION
 
-* [About](README.md)
+* [A propos](README.md)
 * [Introduction](01-intro/README.md)
-* [Comparing reference managers](02-comparing-refman/README.md)
+* [Comparaison des logiciels de gestion des références bibliographiques](02-comparing-refman/README.md)
 
 ## INSTALLATION
 
-* [Installing Zotero](03-installation.md)
+* [Installer Zotero](03-installation.md)
 
-## DIG INTO ZOTERO
+## PRATIQUER ZOTERO
 
-* [Creating a Zotero library](04-library/README.md)
-  * [exercises](04-library/exercises-collect.md)
-  * [exercises](04-library/exercises-manage.md)
-* [From Zotero to the word processor](05-wordprocessor/README.md)
-  * [exercises](05-wordprocessor/exercises.md)
-* [Citation styles](06-citation-styles/README.md)
-  * [exercises](06-citation-styles/exercises.md)
+* [Créer une bibliothèque Zotero](04-library/README.md)
+  * [exercices](04-library/exercises-collect.md)
+  * [exercices](04-library/exercises-manage.md)
+* [De Zotero au logiciel de traitement de texte](05-wordprocessor/README.md)
+  * [exercices](05-wordprocessor/exercises.md)
+* [Styles de citation](06-citation-styles/README.md)
+  * [exercices](06-citation-styles/exercises.md)
 
-## THE END (SO FAR...)
+## FIN
 
 * [Conclusion](07-conclusion.md)
-* [References & useful links](X-references.md)
-* [Document version history](version.md)
+* [Références & liens utiles](X-references.md)
+* [Hitorique des versions](version.md)
