@@ -6,7 +6,7 @@
 | libre de droit | propriété de Clarivate Analytics | propriété de Elsevier | propriété de Digital Science & Research Solutions, Inc. | libre de droit |
 | gratuit | $249.95* | gratuit | $55/an** | gratuit |
 | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) | ![](../img/os_windows.png)![](../img/os_mac.png) | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) | ![](../img/os_windows.png)![](../img/os_mac.png) | ![](../img/os_windows.png)![](../img/os_mac.png)![](../img/os_linux.png) |
-| intégré à   LaTeX | intégré à Word OpenOffice (LaTeX) | intégré à Word OpenOffice (LaTeX) | intégré à Word OpenOffice (LaTeX) | intégré à Word OpenOffice LaTeX |
+| intégré à   LaTeX | intégré à Word, OpenOffice, (LaTeX) | intégré à Word, OpenOffice, (LaTeX) | intégré à Word, OpenOffice, (LaTeX) | intégré à Word OpenOffice LaTeX |
 | ??? styles de citation  | 6,000+ styles de citation  | 9'000+ styles de citation  | 9'000+ styles de citation  | 9'000+ styles de citation  |
 
 \* rabais pour les étudiants: CHF 118.- (en Suisse)   
@@ -30,7 +30,7 @@ Toutes ces tâches peuvent être effectuées par le logiciel, mais rappelez-vous
 *	Sélectionner les références pertinentes pour les ajouter à votre bibliographie
 
 
-Il est important de comprendre que ce genre de logiciel est fait pour gérer une bibliographie, et non les différents exemplaires d’un même document. Il n’est pas adapté pour garder une trace de qui emprunte quel document ( par exemple dans une collection de laboratoire).
+Il est important de comprendre que ce genre de logiciel est fait pour gérer une bibliographie, et non les différents exemplaires d’un même document. Il n’est pas adapté pour garder une trace de qui emprunte quel document (par exemple dans une collection de laboratoire).
 
 ## Pourquoi Zotero?
 
