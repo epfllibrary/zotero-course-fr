@@ -1,4 +1,3 @@
-\pagebreak
 ## Comparaison des logiciels de gestion des références
 
 | ![logo BibTeX](../img/refman_bibtex.png) | ![logo EndNote](../img/refman_endnote.jpg) | ![logo Mendeley](../img/refman_mendeley.png) | ![logo ReadCube](../img/refman_readcube.png) | ![logo Zotero](../img/refman_zotero.png) |
