@@ -18,7 +18,7 @@ Elle a été mise à jour et traduite par l'équipe actuelle, notamment :
 *Mise à jour et traduite le 17.10.2019* ([version history](X-references.md))
 
 La version la plus récente de cette formation est disponible sur **gitbook**: [https://epfl-fbib.gitbook.io/zotero/](https://epfl-fbib.gitbook.io/zotero/).
-Un traduction anglaise est également disponible à l'adresse : go.epfl.ch/zotbook(go.epfl.ch/zotbook)
+Un traduction anglaise est également disponible à l'adresse : [go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)
 
 
 ## Licence `CC BY`
