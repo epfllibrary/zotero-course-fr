@@ -1,9 +1,9 @@
 ## Description
-Ce support de cours a été créé comme support de formation par la [Bibliothèque de l'EPFL](https://www.epfl.ch/campus/library/fr/bibliotheque/), à Lausanne, Suisse. Les slides de cette formation sont disponibles sur HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
+Ce support de cours a été créé comme support de formation par la [Bibliothèque de l'EPFL](https://www.epfl.ch/campus/library/fr/bibliotheque/), à Lausanne, Suisse. La version anglophone des slides utilisées en complément lors de cette formation sont disponibles sur HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
 
 ## Auteurs
 
-Cette formation a été créée par l'égquipe formationde la bibliothèque de l'EPFL :   
+Cette formation a été créée par l'équipe formation de la bibliothèque de l'EPFL :   
 + Caroline Salamin [caroline.salamin@epfl.ch](mailto:caroline.salamin@epfl.ch)   
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
 + Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
