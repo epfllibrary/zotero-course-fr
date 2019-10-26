@@ -35,7 +35,7 @@ Les documents possèdent souvent un identifiant unique qui leur sont attribués 
 Dans Zotero, si vous cliquez sur l’icône « baguette magique » dans la barre d’outil supérieure, un champ apparaît. Tapez l’identifiant du document, appuyez sur « enter ». Une nouvelle référence va alors s’ajouter à votre bibliothèque. 
 
 
-Exemple : l’ISBN d’un livre, le DOI d’un article scientifique ou le PMID d’un article du domaine biomédical.  
+Exemple : l’ISBN d’un livre, le DOI d’un article scientifique ou le PMID d’un article indexée dans la base de donnée [www.pubmed.gov](Pubmed).  
 
 
 ### ... depuis un PDF
@@ -45,7 +45,6 @@ Si vous avez enregistré des PDFs sur votre ordinateur sans ajouter directement 
 Vous devez ajouter le PDF dans Zotero en le glissant d’un dossier vers votre bibliothèque. Zotero recherche automatiquement les métadonnées et crée une référence  contenant les métadonnées sur le PDF lorsque cela est possible. Cependant, il se peut que le PDF que vous avez ajouté dans votre bibliothèque Zotero ne soit pas lisible par une machine, ou qu’il ne soit pas reconnu par Zotero. Dans ce cas de figure, aucune métadonnée ne sera récupérée. Vous pouvez également récupérer les métadonnées de plusieurs PDFs en même temps. 
 
 Exemple : un PDF envoyé par un-e collègue.
-
 
 
 ### ... manuellement
@@ -62,4 +61,4 @@ Exemple : un rapport de  l'[Office fédéral de la statistique](https://www.bfs.
 Dans certains cas, vous pourriez vouloir enregistrer une copie du texte associé à la référence bibliographique. Il est possible de récupérer et ajouter des PDFs de deux manières.
 
 1. En ajoutant une référence bibliographique depuis votre navigateur web.
-2. Plus tard, en effectuant un clic droit sur une référence (ou une sélection de références) et en cliquant sur « trouver un pdf disponible ».
+2. A posteriori, en effectuant un clic droit sur une référence (ou une sélection de références) et en cliquant sur « trouver un pdf disponible ».
