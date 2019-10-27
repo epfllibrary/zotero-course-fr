@@ -13,7 +13,7 @@ Il y a plus de 9'000 styles disponibles pour Zotero!
 Si vous souhaitez appliquer un style à des bibliographies que vous avez créées depuis votre bibliothèque Zotero, vous avez besoin de sélectionner le style de citation dans Zotero.
 
 1. Ouvrir Zotero
-2. Aller sur *Edition > Preferences*
+2. Aller sur *Edition > Préférences*
 3. Cliquer sur l'onglet *Citer* 
 4. Dans l'onglet *Styles* qui s'affiche, choisir le style que voulez appliquer à votre bibliographie.
 5. Cliquer sur "OK"
@@ -32,7 +32,7 @@ Les changements vont s'appliquer automatiquement dans tout le document.
 
 ## Trouver le style correspondant à vos besoins
 
-Il y a tellement de styles de citation différents pour Zotero, qu'il y en a forcément un qui correspond à vos besoins. Si vous avez besoin d'un autre style, vous pouvez rechercher dans le "Zotero Style Repository" [Zotero Style Repository](https://www.zotero.org/styles). Dans ce dépôt, vous pouvez rechercher des styles de citation par titre, format et champs. Pour chaque style, une pré-visualisation est disponible. Le dépôt est également directement accessible depuis Zotero.
+Il y a tellement de styles de citation différents pour Zotero, qu'il y en a forcément un qui correspond à vos besoins. Si vous avez besoin d'un autre style, vous pouvez rechercher dans le "Zotero Style Repository[Zotero Style Repository](https://www.zotero.org/styles)". Dans ce dépôt, vous pouvez rechercher des styles de citation par titre, format et champs. Pour chaque style, une pré-visualisation est disponible. Le dépôt est également directement accessible depuis Zotero.
 
 ## Ajouter un nouveau style dans Zotero
 
@@ -47,9 +47,9 @@ Les styles de citations peuvent être ajoutés de 3 manières différentes :
 Si vous avez téléchargé un fichier .csl, vous pouvez l'ajouter à Zotero en suivant les étapes suivantes :
 
 1. Ouvrir Zotero
-2. Aller sur *Edition > Preferences*
+2. Aller sur *Edition > Préférences*
 3. Cliquer sur l'onglet *Citer*
-4. Dans l'onglet "styles" qui vient de s'ouvrir, cliquer sur le signe **+**, juste en-dessous de la liste de styles pré-enregistrés
+4. Dans l'onglet "Styles" qui vient de s'ouvrir, cliquer sur le signe **+**, juste en-dessous de la liste de styles pré-enregistrés
 5. Rechercher dans votre ordinateur le fichier .csl que vous souhaitez ajouter
 6. Sélectionner le fichier .csl
 7. Cliquer sur "Ouvrir"
@@ -61,7 +61,7 @@ Le nouveau style de citation est ajouté à la liste dans Zotero et dans votre l
 Il est également possible d'intégrer un style directement depuis Zotero via la banque de styles Zotero en suivant les étapes suivantes :
 
 1. Ouvrir Zotero
-2. Aller sur *Edition > Preferences*
+2. Aller sur *Edition > Préférences*
 3. Cliquer sur l'onglet *Citer*
 4. Dans l'onglet "styles" qui vient de s'ouvrir, cliquer sur "Obtenir d'autres styles", juste en-dessous de la liste des styles pré-enregistrés.
 5. La banque de styles Zotero s'ouvre
