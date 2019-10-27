@@ -17,9 +17,9 @@ Insérez trois citations et créez ensuite une bibliographie.
 
 ### exercice 5.3 (pour les utilisateurs de LaTeX)   
 
-Même si le travail avec LaTeX n'est pas couvert par cet atelier, essayez de trouver comment intégrer Zotero dans vos flux de travail LaTeX
-Qu'avez-vous besoin de faire?
+Même si le travail avec LaTeX n'est pas couvert par cet atelier, essayez de trouver comment intégrer Zotero dans vos flux de travail LaTeX.
+Qu'avez-vous besoin de faire? 
 
 ---
 *Réponses et notes personnelles*
-/pagebreak
+
