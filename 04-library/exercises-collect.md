@@ -27,4 +27,3 @@ Utilisez la fonctionalité "Trouver des PDFs disponibles" pour vérifier la disp
 ---
 
 *Réponses et notes personnelles*
-/pagebreak
