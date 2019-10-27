@@ -24,4 +24,4 @@
 
 * [Conclusion](07-conclusion.md)
 * [Références & liens utiles](X-references.md)
-* [Hitorique des versions](version.md)
+* [Historique des versions](version.md)
