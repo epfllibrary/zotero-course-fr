@@ -27,7 +27,7 @@ Maintenant que vous êtes familier avec vos collections et la liste de vos réf�
 Où voyez-vous les métadonnées de chacune des références?   
 Selon les métadonnées trouvées sur la page web par Zotero, certaines modifications de notices peuvent être nécessaire dans votre bibliothèque. Est-ce que les références que vous avez collectées sont correctes et complètes?  
 
-Quels sont les champs les plus importants pour une référence d'article de revue? et pour une thèse? Un rapport?
+Quels sont les champs les plus importants pour une référence d'article de revue? Et pour une thèse? Un rapport?
 
 
 ### exercice 4.7: Annotez vos références
@@ -37,4 +37,4 @@ Ajoutez des commentaires à vos références: ajoutez une note à un élément d
 ---
 
 *Réponses et notes personnelles*
-/pagebreak
+
