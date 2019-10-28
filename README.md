@@ -13,7 +13,7 @@ Elle a été mise à jour et traduite par l'équipe actuelle, notamment :
 
 + Angélique Boschung [angelique.joye@epfl.ch](mailto:angelique.joye@epfl.ch)
 
-## Version traduite`2.1.00`
+## Version traduite `2.1.00`
 
 *Mise à jour et traduite le 17.10.2019* ([version history](X-references.md))
 
