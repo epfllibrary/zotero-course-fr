@@ -41,4 +41,5 @@ Plugins Zotero pour ajoute des fonctionnalités:
 
 **2.05**: mise à jour de la mise en page (25.09.2019)
 
-**2.1.00**: traduction par Angélique (17.10.2019.2019)
+**2.1.00**: traduction par Angélique (17.10.2019)
+
