@@ -24,8 +24,8 @@ Zotero est un logiciel de gestion des références. Lorsque vous utilisez un tel
 
 Toutes ces tâches peuvent être effectuées par le logiciel, mais rappelez-vous que **vous êtes le cerveau**. Vous devez donc :    
 
+* Lire les articles, livres et autres documents (:wink:)
 * Vérifier que les données des références soient correctes et complètes
-*	Lire les articles, livres et autres documents
 *	Trier les références
 *	Sélectionner les références pertinentes pour les ajouter à votre bibliographie
 
