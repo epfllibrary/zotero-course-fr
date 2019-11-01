@@ -67,6 +67,6 @@ Il est également possible d'intégrer un style directement depuis Zotero via la
 5. La banque de styles Zotero s'ouvre
 6. Rechercher le style que vous souhaitez ajouter et cliquer dessus
 
-Le nouvewau style de citation est ajouté à la liste dans Zotero et dans votre logiciel de traitement de texte.
+Le nouveau style de citation est ajouté à la liste dans Zotero et dans votre logiciel de traitement de texte.
 
 Si vous choisissez d'utiliser la banque de styles Zotero, aller sur [https://zotero.org/styles](https://zotero.org/styles) et sauter les étapes 1-5 ci-dessus.
