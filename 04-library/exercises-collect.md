@@ -20,7 +20,7 @@ La collection créée à partir de cette recherche est dynamique : chaque nouvel
 
 ### exercice 4.3 : rechercher des PDFs
 
-Sélectionnez un groupe de références sans fichier attché.
+Sélectionnez un groupe de références sans fichier attaché.
 
 Utilisez la fonctionalité "Trouver des PDFs disponibles" pour vérifier la disponibilité des PDFs.
 
