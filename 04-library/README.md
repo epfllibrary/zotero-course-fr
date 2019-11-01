@@ -9,7 +9,7 @@ Votre bibliothèque Zotero contiendra toutes les références ajoutées dans vot
 
 Une référence est constituée par les métadonnées décrivant un document et vous permettant de le retrouver facilement ultérieurement. Zotero structure les métadonnées que vous récoltez sur les documents. Lorsque vous citez vos documents avec Zotero, cela génère ensuite des bibliographies. Zotero permet également de stocker des fichiers électroniques et de les rattacher directement aux références bibliographiques.
 
-Le mieux est de récolter les références lorsque vous êtes dans la phase de recherche d’information. Vous serez plus efficaces dans la collecte des métadonnées lorsque vous êtes sur le site internet / la base de données / le catalogue de bibliothèque car vous n’aurez ainsi pas besoin de rechercher la référence une seconde fois ultérieurement.
+Le mieux est de récolter les références lorsque vous êtes dans la phase de recherche d’information. Vous serez plus efficaces dans la collecte des métadonnées lorsque vous êtes sur le site internet / la base de données / le catalogue de bibliothèque car vous n’aurez ainsi pas besoin de rechercher la référence une seconde fois.
 
 
 ### ... avec le connecteur Zotero
@@ -30,7 +30,7 @@ Exemple : voici [exemple de fichier](https://github.com/epfllibrary/zotero-cours
 
 ### ... avec un identifiant unique (DOI, PMID, ISBN). 
 
-Les documents possèdent souvent un identifiant unique qui leur sont attribués : cela est utile lorsque vous possédez une copie du document et que vous voulez en ajouter la référence à Zotero.
+Les documents possèdent souvent un identifiant unique qui leur est attribué : cela est utile lorsque vous possédez une copie du document et que vous voulez en ajouter la référence à Zotero.
 
 Dans Zotero, si vous cliquez sur l’icône « baguette magique » dans la barre d’outil supérieure, un champ apparaît. Tapez l’identifiant du document, appuyez sur « enter ». Une nouvelle référence va alors s’ajouter à votre bibliothèque. 
 
