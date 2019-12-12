@@ -4,14 +4,15 @@ Ce support de cours a été créé comme support de formation par la [Bibliothè
 ## Auteurs
 
 Cette formation a été créée par l'équipe formation de la bibliothèque de l'EPFL :   
-+ Caroline Salamin [caroline.salamin@epfl.ch](mailto:caroline.salamin@epfl.ch)   
-+ Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)   
-+ Noémi Cobolet [noémi.cobolet@epfl.ch](mailto:noémi.cobolet@epfl.ch)   
-+ Raphaël Grolimund [raphael.grolimund@epfl.ch](mailto:raphael.grolimund@epfl.ch)
++ Caroline Salamin
++ Mathilde Panes
++ Noémi Cobolet
++ Raphaël Grolimund
 
 Elle a été mise à jour et traduite par l'équipe actuelle, notamment : 
 
-+ Angélique Boschung [angelique.joye@epfl.ch](mailto:angelique.joye@epfl.ch)
++ Angélique Boschung [angelique.boschung@epfl.ch](mailto:angelique.boschung@epfl.ch)
++ Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)  
 
 ## Version traduite `2.1.00`
 
