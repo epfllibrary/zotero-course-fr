@@ -3,16 +3,15 @@ Ce support de cours a été créé comme support de formation par la [Bibliothè
 
 ## Auteurs
 
-Cette formation a été créée par l'équipe formation de la bibliothèque de l'EPFL :   
-+ Caroline Salamin
-+ Mathilde Panes
-+ Noémi Cobolet
-+ Raphaël Grolimund
-
-Elle a été mise à jour et traduite par l'équipe actuelle, notamment : 
+Cette formation a été créée et est maintenue par l'équipe formation de la Bibliothèque de l'EPFL :   
 
 + Angélique Boschung [angelique.boschung@epfl.ch](mailto:angelique.boschung@epfl.ch)
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)  
+
+Anciens contributeurs : 
++ Caroline Salamin
++ Noémi Cobolet
++ Raphaël Grolimund
 
 ## Version traduite `2.1.00`
 
