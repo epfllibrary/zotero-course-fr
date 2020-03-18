@@ -1,6 +1,8 @@
 ## Description
 Ce support de cours a été créé comme support de formation par la [Bibliothèque de l'EPFL](https://www.epfl.ch/campus/library/fr/bibliotheque/), à Lausanne, Suisse. La version originale en anglais est également disponible sur [son propre répertoire](https://github.com/epfllibrary/zotero-course).  La version anglophone des slides utilisées en complément lors de cette formation sont disponibles sur HackMD ([https://go.epfl.ch/ztart](https://go.epfl.ch/ztart)).
 
+Pour naviguer dans les différentes partie du cours, utilisez la barre sur la gauche de la page.
+
 ## Auteurs
 
 Cette formation a été créée et est maintenue par l'équipe formation de la Bibliothèque de l'EPFL :   
