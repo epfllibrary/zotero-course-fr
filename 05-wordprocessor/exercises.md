@@ -15,10 +15,10 @@ Insérez trois citations et créez ensuite une bibliographie.
 1. Générez une bibliographie.
 
 
-### exercice 5.3 (pour les utilisateurs de LaTeX)   
+### exercice 5.3: Zotero et LaTeX?
 
-Même si le travail avec LaTeX n'est pas couvert par cet atelier, essayez de trouver comment intégrer Zotero dans vos flux de travail LaTeX.
-Qu'avez-vous besoin de faire? 
++ Si vous utilisez Overleaf, quelles sont les étapes pour lier Overleaf à Zotero?
++ Si vous utilisez LaTex localement, vous pouvez exporter votre bibliothèque Zotero pour l'utiliser avec votre fichier source LaTeX: quel est le format du fichier que vous devez exporter de Zotero?
 
 ---
 *Réponses et notes personnelles*
