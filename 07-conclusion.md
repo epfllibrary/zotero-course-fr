@@ -15,6 +15,33 @@ Il y a plusieurs fonctions de Zotero qui n'ont pas été couvertes par ce worksh
 
 N'hésitez pas à nous demander si vous souhaitez des explications supplémentaires concernant ces fonctionnalités.
 
+### Utiliser un stockage WebDav: comment configurer SWITCHdrive?
+Les membres des universités et hautes écoles suisses disposent d'un espace de stockage personnel SWITCHdrive. SWITCHdrive offre un espace de stockage gratuit de 50 GB dans le cloud, permettant de stocker des fichiers. SWITCHdrive peut également être utilisé pour augmenter l'espace de stockage de votre bibliotèhque Zotero. 
+Lorsque vous commencer à utiliser Zotero avec un compte zotero.org, vous recevez un espace de stockage gratuit de 300 MB sur les serveurs de Zotero. Cet espace est utilisés pour synchroniser vos bilbiothèques sur différents appareils, et vos proposer une version onine de votre bibliothèque, accessible via un navigateur web. 
+SWITCHdrive peut faire la même chose, mais avec un espace de stockage beaucoup plus important!
+
+**Voilà comment bénéficier de cet epace:**
+
+1. S'enregistrer sur la [page de login de SWITCHdrive](https://eduid.ch/web/registration/method/?target=https%3A%2F%2Flogin.eduid.ch%2Fidp%2Fprofile%2FSAML2%2FUnsolicited%2FSSO%3FproviderId%3Dhttps%253A%252F%252Fcloud-id.switch.ch%252Fshibboleth%26target%3Dhttps%253A%252F%252Fcloud-id.switch.ch%252Fregister%252Fdrive)
+
+2. Ouvrir Zotero et aller dans Preferences > sync
+
+3. Depuis cette page, vous pouvez modifier vos paramètres de synchronisation. Assurez-vous que la synchronisation des données configurée. Pour cela vous avez besoin d'un compte Zotero.
+
+4. Depuis cette même page, vous pouvez utiliser quel fichier de stockage utiliser. Choisissez "WebDAV", comme indiqué ci-dessous. 
+
+5. Pour connecter votre bibliothèque Zotero et  les serveurs de SWITCHdrive, définissez l'url comme indiqué ci-dessous: 
+
+  !![webdav](./img/sync_webdav.PNG)[webdav](./img/sync_webdav.PNG)
+  
+6. Entrer votre nom d'utilisateur et votre mot de passe. ce sont les mêmes que ceux utilisés pour créer votre compte SWITCHdrive: 
+
+  ![credentials](./img/sync_credentials.PNG)
+
+7. Vérifier le lien avec le serveur en cliquant sur le bouton dédié. 
+
+La synchronisation se fait désormais via SWITCHdrive. 
+
 ## Support
 L'équipe de la Bibliothèque de l'EPFL est toujours à votre disposition pour vous aider dans votre utilisation de Zotero, et pour répondre également à toute question sur les citations en général.
 Vous pouvez nous contacter par e-mail: [formations.bib@epfl.ch](mailto:formations.bib@epfl.ch).   
