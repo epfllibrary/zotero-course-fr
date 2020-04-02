@@ -9,15 +9,17 @@ Cette formation a été créée et est maintenue par l'équipe formation de la B
 
 + Angélique Boschung [angelique.boschung@epfl.ch](mailto:angelique.boschung@epfl.ch)
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)  
++ Miriam Petrilli [miriam.petrilli@epfl.ch](mailto:miriam.petrilli@epfl.ch) 
++ Anthony Hunziker [anthony.hunziker@epfl.ch](anthony.hunziker@epfl.ch) 
 
 Anciens contributeurs : 
 + Caroline Salamin
 + Noémi Cobolet
 + Raphaël Grolimund
 
-## Version traduite `2.1.01`
+## Version traduite `2.1.02`
 
-*Mise à jour et traduite le 20.02.2020* ([version history](X-references.md))
+*Mise à jour et traduite le 02.04.2020* ([version history](X-references.md))
 
 La version la plus récente de cette formation est disponible sur **gitbook**: [https://go.epfl.ch/zotbook-fr](https://go.epfl.ch/zotbook-fr).
 Un traduction anglaise est également disponible à l'adresse : [go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)
