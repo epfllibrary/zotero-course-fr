@@ -31,12 +31,13 @@ SWITCHdrive peut faire la même chose, mais avec un espace de stockage beaucoup 
 4. Depuis cette même page, vous pouvez utiliser quel fichier de stockage utiliser. Choisissez "WebDAV", comme indiqué ci-dessous. 
 
 5. Pour connecter votre bibliothèque Zotero et  les serveurs de SWITCHdrive, définissez l'url comme indiqué ci-dessous: 
-
-  !![webdav](./img/sync_webdav.PNG)[webdav](./img/sync_webdav.PNG)
+  
+![webdav](../img/sync_webdav.PNG)[webdav](./img/sync_webdav.PNG)
   
 6. Entrer votre nom d'utilisateur et votre mot de passe. ce sont les mêmes que ceux utilisés pour créer votre compte SWITCHdrive: 
 
-  ![credentials](./img/sync_credentials.PNG)
+  
+![credentials](../img/sync_credentials.PNG)
 
 7. Vérifier le lien avec le serveur en cliquant sur le bouton dédié. 
 
