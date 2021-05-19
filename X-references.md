@@ -43,3 +43,6 @@ Plugins Zotero pour ajoute des fonctionnalités:
 
 **2.1.00**: traduction par Angélique (17.10.2019)
 
+**2.1.01**: mise à jour concernant le storage institutionnel (19.05.2021)
+
+
