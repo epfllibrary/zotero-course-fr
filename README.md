@@ -19,7 +19,7 @@ Anciens contributeurs :
 
 ## Version traduite `2.1.02`
 
-*Mise à jour et traduite le 02.04.2020* ([version history](X-references.md))
+*Mise à jour et traduite le 19.05.2021* ([version history](X-references.md))
 
 La version la plus récente de cette formation est disponible sur **gitbook**: [https://go.epfl.ch/zotbook-fr](https://go.epfl.ch/zotbook-fr).
 Un traduction anglaise est également disponible à l'adresse : [go.epfl.ch/zotbook](https://go.epfl.ch/zotbook)
