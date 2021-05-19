@@ -7,7 +7,6 @@ Pour naviguer dans les différentes partie du cours, utilisez la barre sur la ga
 
 Cette formation a été créée et est maintenue par l'équipe formation de la Bibliothèque de l'EPFL :   
 
-+ Angélique Boschung [angelique.boschung@epfl.ch](mailto:angelique.boschung@epfl.ch)
 + Mathilde Panes [mathilde.panes@epfl.ch](mailto:mathilde.panes@epfl.ch)  
 + Miriam Petrilli [miriam.petrilli@epfl.ch](mailto:miriam.petrilli@epfl.ch) 
 + Anthony Hunziker [anthony.hunziker@epfl.ch](anthony.hunziker@epfl.ch) 
@@ -16,6 +15,7 @@ Anciens contributeurs :
 + Caroline Salamin
 + Noémi Cobolet
 + Raphaël Grolimund
++ Angélique Boschung
 
 ## Version traduite `2.1.02`
 
