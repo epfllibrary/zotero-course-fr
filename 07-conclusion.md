@@ -1,4 +1,4 @@
-Le but de cet atelier était de vous permettre d'acquérir les bases pour commencer à travailler avec Zotero.
+Le but de cet atelier était de vous permettre d'acquérir les bases pour commencer à travailler avec Zotero. Il existe toutefois des fonctionnalités avancées qui peuvent vous intéresser.
 
 ## Fonctionnalités avancées de Zotero
 
