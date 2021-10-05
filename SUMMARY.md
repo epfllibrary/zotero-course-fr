@@ -20,8 +20,12 @@
 * [Styles de citation](06-citation-styles/README.md)
   * [exercices](06-citation-styles/exercises.md)
 
-## FIN
+## FIN (des bases)
 
 * [Conclusion](07-conclusion.md)
 * [Références & liens utiles](X-references.md)
 * [Historique des versions](X-references.md#version-history)
+
+## FONCTIONNALITÉS AVANCÉES
+
+* [Stockage illimité](08-advanced-features.md)
